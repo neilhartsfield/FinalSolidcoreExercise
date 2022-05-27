@@ -1,7 +1,7 @@
 
 Steps:
 
-1. Download the FinalSolidcoreExercise.zip and extract it
+1. Download the SolidcoreFinal.zip and extract it
 2. Open an ADMIN command prompt and navigate to the directory of the final exercise
 3. Solidify the contents of the directory
 4. To begin the exercise, run: runme.bat
